@@ -7,7 +7,6 @@
 <p><strong>Unity Version:</strong>  2019.4.12f1</p>
 <p><strong>Tested on:</strong>  Windows Mixed Reality HMD (as provided) and ASUS ROG laptop (as provided)</p>
 <p><strong>GitHub link:</strong>  Git hub wasn’t always entirely cooperative for this assignment !  I started of with one for the initial project where I was experimenting with the crowd movement and with getting Yarn Spinner to work.  This was all with the simple camera script.  That is GitHub link 1 below.  I’ve then had some issues in the past with things breaking when XR is enabled in the project, so as recommended by Ted in week 1, I duplicated the project before doing so.  I decided to have a separate GitHub for it, so I forked off rathe than branching.  Not long after that, I got myself in a mess and ended up with 2 stuck outgoings.  I could only manage to clear one of them.  This is GitHub link 2 below.  Lastly, I put up a third GitHub today with the final project on it.  That is link 3.  I’ve included all of them to show I have been using it, even though badly ...</p>
-<p>&nbsp;</p>
 <ul>
   <li>GitHub 1:  https://github.com/mumblespolecat/Assignment5AI-2.git</li>
   <li>GitHub 2:  https://github.com/mumblespolecat/assignment5-AIXR.git</li>
