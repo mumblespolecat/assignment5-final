@@ -13,7 +13,6 @@
   <li>GitHub 2:  https://github.com/mumblespolecat/assignment5-AIXR.git</li>
   <li>GitHub 3:  https://github.com/mumblespolecat/assignment5-final.git   (this is the final working one, with properly commented code)</li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>The Dialogue:</strong></p>
 <p>I wanted dialogue that fitted the characters.  I also wanted it to have very light humour (which was also due to the cartoon feel of the characters), and also have a few cultural references.  I hope I achieved at least some of that.  There is an order to the dialogue, with responses / options allowing the player to go forward through the story only becoming available as things are done in the right order.  There are consequences in so far as you have to talk to them all to work out what to do and subsequently, if you don’t do things in the right order, you don’t progress (very fancy sounding language for such a simple story …).<br>
 I have tried to ensure repetition is only encountered when the same character is repeatedly approached with nothing having happened in between.  They have that in the Zelda games on the switch, so if it is good enough for them …  I’ve tried to ensure that not only does the story drive the dialogue, but also that the dialogue drives the story in return.  The dialogue also sets the appropriate variables to see who has talked to who and been asked what, and as a final act enables the present (a dog) to appear by making he object active.  I tried to use the available functionality appropriately.</p>
