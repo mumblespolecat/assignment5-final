@@ -25,7 +25,7 @@ public class RotateToMeGranny : MonoBehaviour
             MoveToIdle();
 
             // this bit sets the x and z components of target position to those of the target and the y component to that of the character, resulting in no tilt. This nearly
-            // drove me round the twist for most of Sunday until Youtube came to the rescue !  Obvious really, with the benefit of hindsight ...
+            // drove me round the twist for most of a Sunday until Youtube came to the rescue !  Obvious really, with the benefit of hindsight ...
             Vector3 targetPosition = new Vector3(grannyTarget.transform.position.x, transform.position.y, grannyTarget.transform.position.z);
             transform.LookAt(targetPosition);
         }

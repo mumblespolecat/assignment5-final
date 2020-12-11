@@ -37,7 +37,7 @@ public class RotateToMe : MonoBehaviour
         if(!hasJumped)
 
         anim.SetTrigger("JumpNow");
-        //anim.SetTrigger("AndBreathe");
+        //anim.SetTrigger("AndBreathe"); // changed my mind about this bit
         hasJumped = true;
     }
 }
