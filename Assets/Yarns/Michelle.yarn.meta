@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 9ac06944732f7204b9e1b3344ccbb088
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-GB
+  stringIDs:
+  - Michelle-Michelle.Start-0
+  - Michelle-Michelle.Start-1
+  - Michelle-Michelle.Start-2
+  - Michelle-Michelle.Start-3
+  - Michelle-Michelle.Start-4
+  - Michelle-Michelle.Start-5
+  - Michelle-Michelle.Start-6
+  - Michelle-MichelleMaybe-7
+  - Michelle-MichelleMaybe-8
+  - Michelle-MichelleMaybe-9
+  - Michelle-MichelleNo-10
+  - Michelle-MichelleNo-11
+  - Michelle-MichelleNo-12
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 9ac06944732f7204b9e1b3344ccbb088,
+    type: 3}
+  localizations: []

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6ea6b1344909f0c4bbf33dff7e7b1f76
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: 
+  stringIDs: []
+  compilationStatus: 0
+  isSuccesfullyCompiled: 0
+  compilationErrorMessage: "Error on line 8 at position 8:\nmismatched input 'if
+    ' expecting COMMAND_END\r\n<<else if visited (\"HippyKid.Start\")>>\r\n      
+    ^^^"
+  baseLanguage: {instanceID: 0}
+  localizations: []

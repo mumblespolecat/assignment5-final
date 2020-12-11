@@ -1,0 +1,68 @@
+title: Granny.Start
+tags: 
+colorID: 0
+position: 224,236
+---
+<<if $dogknown is true>>
+Any more ideas about the birthday present ?
+[[ GrannyFinalOptions]]
+<<endif>>
+
+<<if $BdayAsked is true>>
+Hello again dear.  Nice day for a dance isn't it !
+Let me know if you have any ideas.
+<<stop>>
+<<endif>>
+
+<<if visited ("HippyKid.Start") is true>>
+    Hello dear.
+    You've been speaking to my grandson. He's the one in the stripy hat.
+    How does he seem ?
+    [[ OK, but I think I made him jump ! |GrannyQuestion]]
+    [[ He seemed a bit aimless really ... |GrannyQuestion]]
+
+<<else>>
+    Hello dear.
+    Always nice to dance in the sun isn't it !
+    <<stop>>
+<<endif>>
+===
+title: GrannyQuestion
+tags: 
+colorID: 0
+position: 442,-236
+---
+I’m a bit worried about him.  He needs something to focus on.  It’s his birthday today and I wish I knew what to get him …
+Any ideas ?
+[[ How about a new hat ? |GrannyNo]]
+[[ Maybe a Bob Marley CD ? |GrannyNo]]
+<<if $MichelleDog is true>>
+[[ I think he might like a dog |GrannyYes]]
+<<endif>>
+===
+title: GrannyNo
+tags: 
+colorID: 0
+position: 204,-458
+---
+Hmm, I’m not sure.  Maybe. I’ll keep thinking. Thanks dear.
+<<set $BdayAsked to true>>
+===
+title: GrannyYes
+tags: 
+colorID: 0
+position: 782,-456
+---
+Now, that’s a good idea. Thanks dear – I’ll see what I can do !
+<<set $dog to true>>
+<<switchon Dog>>
+===
+title: GrannyFinalOptions
+tags: 
+colorID: 0
+position: -139,-80
+---
+[[ Some deoderant ? |GrannyNo]]
+[[ A new girlfriend ? |GrannyNo]]
+[[ I think he'd like a dog ! |GrannyYes]]
+===

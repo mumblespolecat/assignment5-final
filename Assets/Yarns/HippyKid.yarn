@@ -1,0 +1,14 @@
+title: HippyKid.Start
+tags: 
+colorID: 0
+position: 474,61
+---
+<<if $dog is true>>
+Hey man ! Take a look at my dog.
+<<elseif visited ("HippyKid.Start")>>
+Sorry man, I'm feeling kinda low today.
+<<else>> 
+Oh man ! You made me jump ...
+Sorry man, I'm feeling kinda low today.
+<<endif>>
+===

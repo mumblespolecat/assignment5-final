@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 32c6edd459ea6c347b0be286ee81c44b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-GB
+  stringIDs:
+  - Granny-Granny.Start-0
+  - Granny-Granny.Start-1
+  - Granny-Granny.Start-2
+  - Granny-Granny.Start-3
+  - Granny-Granny.Start-4
+  - Granny-Granny.Start-5
+  - Granny-Granny.Start-6
+  - Granny-GrannyQuestion-7
+  - Granny-GrannyQuestion-8
+  - Granny-GrannyQuestion-9
+  - Granny-GrannyQuestion-10
+  - Granny-GrannyQuestion-11
+  - Granny-GrannyNo-12
+  - Granny-GrannyYes-13
+  - Granny-GrannyFinalOptions-14
+  - Granny-GrannyFinalOptions-15
+  - Granny-GrannyFinalOptions-16
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 32c6edd459ea6c347b0be286ee81c44b,
+    type: 3}
+  localizations: []

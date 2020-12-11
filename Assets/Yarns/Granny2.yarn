@@ -1,0 +1,16 @@
+title: Granny.Start
+tags: 
+colorID: 0
+position: 300,20
+---
+<<if visited ("HippyKid.Start") is true>>
+    Hello dear.
+    You've been speaking to my grandson. He's the one in the stripy hat.
+    How does he seem ?
+    [[ OK, but I think I made him jump ! |GrannyQuestion]]
+    [[ He seemed a bit aimless really ... |GrannyQuestion]]
+
+<<else>>
+    Hello dear.
+<<endif>>
+===

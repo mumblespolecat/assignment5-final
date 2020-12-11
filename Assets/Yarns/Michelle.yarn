@@ -1,0 +1,36 @@
+title: Michelle.Start
+tags: 
+colorID: 0
+position: 429,-70
+---
+<<if visited("Granny.Start")>>
+Hi. I saw you talking to my boyfriend's Granny.
+Does she seem to know what to get him for his birthday yet ?
+[[ Not sure |MichelleMaybe]]
+[[ No |MichelleNo]]
+<<else>>
+Hi. These tunes are great !
+<<endif>>
+===
+title: MichelleMaybe
+tags: 
+colorID: 0
+position: 550,-290
+---
+Well, I hope it isn't a new hat, or another Bob Marley CD.
+I know he wants a dog.  We were talking about it yesterday.
+Please tell her when you see her.
+<<set $dogknown to true>>
+<<set $BdayAsked to false>>
+===
+title: MichelleNo
+tags: 
+colorID: 0
+position: 770,-290
+---
+Well I know what he wants.
+He wants a dog. We were talking about it yesterday.
+Please tell her next time you see her.
+<<set $dogknown to true>>
+<<set $BdayAsked to false>>
+===

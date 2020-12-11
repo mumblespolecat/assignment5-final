@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3e51f58436e9a004689ca4f1eb1fc73f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-GB
+  stringIDs:
+  - Granny2-Granny.Start-0
+  - Granny2-Granny.Start-1
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 3e51f58436e9a004689ca4f1eb1fc73f,
+    type: 3}
+  localizations: []
