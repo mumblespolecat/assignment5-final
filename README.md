@@ -7,13 +7,13 @@
 <strong>Unity Version:</strong>  2019.4.12f1
 <strong>Tested on:</strong>  Windows Mixed Reality HMD (as provided) and ASUS ROG laptop (as provided)
 <strong>GitHub link:</strong>  Git hub wasn’t always entirely cooperative for this assignment !  I started of with one for the initial project where I was experimenting with the crowd movement and with getting Yarn Spinner to work.  This was all with the simple camera script.  That is GitHub link 1 below.  I’ve then had some issues in the past with things breaking when XR is enabled in the project, so as recommended by Ted in week 1, I duplicated the project before doing so.  I decided to have a separate GitHub for it, so I forked off rathe than branching.  Not long after that, I got myself in a mess and ended up with 2 stuck outgoings.  I could only manage to clear one of them.  This is GitHub link 2 below.  Lastly, I put up a third GitHub today with the final project on it.  That is link 3.  I’ve included all of them to show I have been using it, even though badly ...
-
+<p>&nbsp;</p>
 <ul>
   <li>GitHub 1:  https://github.com/mumblespolecat/Assignment5AI-2.git</li>
   <li>GitHub 2:  https://github.com/mumblespolecat/assignment5-AIXR.git</li>
   <li>GitHub 3:  https://github.com/mumblespolecat/assignment5-final.git   (this is the final working one, with properly commented code)</li>
 </ul>
-
+<p>&nbsp;</p>
 <strong>The Dialogue:</strong>
 I wanted dialogue that fitted the characters.  I also wanted it to have very light humour (which was also due to the cartoon feel of the characters), and also have a few cultural references.  I hope I achieved at least some of that.  There is an order to the dialogue, with responses / options allowing the player to go forward through the story only becoming available as things are done in the right order.  There are consequences in so far as you have to talk to them all to work out what to do and subsequently, if you don’t do things in the right order, you don’t progress (very fancy sounding language for such a simple story …).
 I have tried to ensure repetition is only encountered when the same character is repeatedly approached with nothing having happened in between.  They have that in the Zelda games on the switch, so if it is good enough for them …  I’ve tried to ensure that not only does the story drive the dialogue, but also that the dialogue drives the story in return.  The dialogue also sets the appropriate variables to see who has talked to who and been asked what, and as a final act enables the present (a dog) to appear by making he object active.  I tried to use the available functionality appropriately.
